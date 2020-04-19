@@ -1,12 +1,4 @@
-author: yanm1ng # 作者
-description: yanm1ng's blog
-keyword: hexo-theme, vuejs
-favicon: 
 
-excerpt_link: Read more
-
-menu:
- Home: /
  Tags: /tags/
  Archives: /archives/
  Projects: /project/
@@ -31,27 +23,27 @@ qrcode: true
 comment: gitment
 
 # gitment config
-gitment_owner: yanm1ng
-gitment_repo: yanm1ng.github.io
-gitment_oauth_id: 0f87e490e00ee3fd87ef
-gitment_oauth_secret: 4a9d2b148e7971c2201ad12131ce8bf8159ccd2e
+gitment_owner: YangLei
+gitment_repo: https://github.com/yarnA/hexo-theme-vexo
+gitment_oauth_id:
+gitment_oauth_secret:
 
 # uyan config
 # if you want to use uyan as your blog comment, plz remove/comment out gitment config
-baidu_id: 
+baidu_id:
 google_analytics:
 # disqus config
-disqus_shortname: 
+disqus_shortname:
 
-about: 
+about:
   banner: http://file.muyutech.com/about.jpg
-  avatar: https://avatars3.githubusercontent.com/u/16443628?v=3&s=460
-  description: "The end is always near."
-  weibo_username: yanm1ng
-  twitter_username: yanm1ng
-  github_username: yanm1ng
-  zhihu_username: yummy1121
-  douban_username: yanm1ng
+  avatar: https://tva4.sinaimg.cn/crop.0.0.996.996.180/005PTvyjjw8ezt4ov75s4j30ro0ro40y.jpg?KID=imgbed,tva&Expires=1587268600&ssig=bLQd%2BrP5U6
+  description: "I love x y."
+  weibo_username: p/1005055347486627/home?from=page_100505_profile&wvr=6&mod=data&is_all=1#place
+  twitter_username: YangLei
+  github_username:  yarnA
+  zhihu_username: YangLei
+  douban_username: YangLei
   linkedin_username:
 
 # MathJax Support
